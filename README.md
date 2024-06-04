@@ -1,5 +1,13 @@
 # Tarefa Aula 2
 
+## Alunos
+
+Allan Yves
+Gustavo Nogueira
+Marcos Lima
+Thiago Aires
+
+
 ## Pre-requisitos
 
 É necessário que os aplicativos abaixos estejam utilizados:
